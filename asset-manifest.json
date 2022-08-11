@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Chairo-space/static/css/main.5428f7dd.css",
+    "main.js": "/Chairo-space/static/js/main.08f0fe7c.js",
+    "static/media/screen.jpg": "/Chairo-space/static/media/screen.7b3c83c0ddaf0ac2a887.jpg",
+    "static/media/single.png": "/Chairo-space/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/Chairo-space/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/Chairo-space/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/Chairo-space/index.html",
+    "main.5428f7dd.css.map": "/Chairo-space/static/css/main.5428f7dd.css.map",
+    "main.08f0fe7c.js.map": "/Chairo-space/static/js/main.08f0fe7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5428f7dd.css",
+    "static/js/main.08f0fe7c.js"
+  ]
+}
